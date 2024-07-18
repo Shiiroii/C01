@@ -6,11 +6,11 @@
 /*   By: liulm <liulm@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/18 14:22:49 by liulm             #+#    #+#             */
-/*   Updated: 2024/07/18 15:04:22 by liulm            ###   ########.fr       */
+/*   Updated: 2024/07/18 15:18:11 by liulm            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void	 ft_rev_int_tab(int *tab, int size)
+void	ft_rev_int_tab(int *tab, int size)
 {
 	int	i;
 	int	temp;
